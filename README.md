@@ -1,8 +1,8 @@
 ***** Dicas comandos do Git *****
 
-1.1) Criar novos usuário/email (identidade):
-```git config --global user.email "you@example.com"```
-```git config --global user.name "Your Name"```
+1.1) Criar novos usuário/email (identidade):  
+```git config --global user.email "you@example.com"```  
+```git config --global user.name "Your Name"```  
 
 2) Obter um repositório/projeto git:
 
